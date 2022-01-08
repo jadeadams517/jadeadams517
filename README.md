@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on the Flatiron School's Data Science immersive curriculum!
-- 🌱 I’m currently learning Python and SQL. 
+- 🔭 I’m a Data Scientist and a recent graduate from the Flatiron School.
+- 🌱 I’m currently prioritizing learning PySpark, SQL, Tableau and AWS.
 - ❓ Ask me about linear regression, GIS mapping, and machine learning through Python.
 - 📫 How to reach me: email me at jade.adams517@gmail.com
-- 🌎Fun fact: I love learning languages on the side, I have studied Arabic for 3 years and recently started Syriac.
+- 🌎Fun fact: I love learning languages on the side, I have studied Arabic for 3 years and before the pandemic lived in Cairo, Egypt.
 
 <!--
 **jadeadams517/jadeadams517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
