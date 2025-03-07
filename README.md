@@ -1,7 +1,7 @@
 # Introductions 👋
 
 - 😄 Pronouns: she/her
-- 🔭 I’m a recent graduate from the Flatiron School's Data Science Immersive Program.
+- 🔭 I’m a Senior Analyst at Oscar Health and a graduate from the Flatiron School's Data Science Immersive Program.
 - 🌱 I’m currently prioritizing learning PySpark, SQL and Tableau.
 - ❓ Ask me about EDA, GIS mapping, and machine learning through Python.
 - 📫 How to reach me: email me at jade.adams517@gmail.com
