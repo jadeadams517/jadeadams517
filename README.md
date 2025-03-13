@@ -1,11 +1,11 @@
 # Introductions 👋
 
 - 😄 Pronouns: she/her
-- 🔭 I’m a Senior Analyst at Oscar Health and a graduate from the University of California, Los Angeles.
+- 🔭 I’m a Senior Analyst at Oscar Health and a graduate of the University of California, Los Angeles and the Flatiron School's Data Science program.
 - 🌱 I’m currently prioritizing learning PySpark, SQL and Tableau.
-- ❓ Ask me about EDA, GIS mapping, and machine learning through Python.
+- ❓ Ask me about healthcare data, EDA, GIS mapping, and machine learning through Python.
 - 📫 How to reach me: email me at jade.adams517@gmail.com
-- 🌎Fun fact: I love learning languages on the side, I have studied Arabic for 3 years and before the pandemic lived in Cairo, Egypt.
+- 🌎Fun fact: I love learning languages on the side, I have studied Arabic for 6 years and before the pandemic lived in Cairo, Egypt.
 
 
 # My portfolio
@@ -29,6 +29,10 @@ Home Sales Analysis - [Github Link](https://github.com/dmrossm/HomeSalesAnalysis
 - Developed a multiple linear regression model with prediction accuracy within $100k of true price and 63% higher accuracy than baseline. 
 - Analyzed Pearson correlation of 20 different features for ~22,000 home sales from 2014-2015 in the Greater Seattle area.
 - Built a Tableau Story overviewing the key statistics and areas of the real estate market. 
+
+# My Certifications
+
+Udemy's Looker Studio / Google Data Studio [Course](https://www.udemy.com/share/103W4C3@-45uhuwT34kRSO4J9YuCxJ4CnO5SNL6UHpoEqCFzQYfn_9n73nBQpFLfwQopUN-ZzQ==/)
 
 
 
