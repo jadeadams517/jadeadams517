@@ -1,11 +1,11 @@
 # Introductions 👋
 
 - 😄 Pronouns: she/her
-- 🔭 I’m a Senior Analyst at Oscar Health and a graduate of the University of California, Los Angeles and the Flatiron School's Data Science program.
+- 🔭 I’m a Senior Analyst at Oscar Health and a graduate of the University of California, Los Angeles. In 2021, I completed the Flatiron School's Data Science program.
 - 🌱 I’m currently prioritizing learning PySpark, SQL and Tableau.
-- ❓ Ask me about healthcare data, EDA, GIS mapping, and machine learning through Python.
+- ❓ Ask me about healthcare data, EDA, SQL, and deploying cron jobs through DBT.
 - 📫 How to reach me: email me at jade.adams517@gmail.com
-- 🌎Fun fact: I love learning languages on the side, I have studied Arabic for 6 years and before the pandemic lived in Cairo, Egypt.
+- 🌎Fun fact: I love learning languages on the side, I have studied Arabic for 7 years and before the pandemic lived in Cairo, Egypt.
 
 
 # My portfolio
